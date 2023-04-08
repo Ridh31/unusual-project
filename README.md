@@ -21,9 +21,12 @@ We would like to extend our thanks to the following sponsors for funding Unusual
 
 ## Unusual Project Installation
 
-- composer install && composer update
-- php artisan key:generate
-- php artisan serve
+```
+composer install && composer update
+php artisan key:generate
+php artisan serve
+
+```
 
 ## Special Thanks ✨
 
