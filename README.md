@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://media.tenor.com/bL3N_E4XsLsAAAAd/funny-dog.gif" alt="Unusual Project">
+    <img src="https://media.tenor.com/bL3N_E4XsLsAAAAd/funny-dog.gif" width="300" alt="Unusual Project">
 </p>
 <p align="center">
     <a href="https://packagist.org/packages/laravel/framework">
