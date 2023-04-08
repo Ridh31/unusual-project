@@ -26,7 +26,6 @@ composer install && composer update
 php artisan key:generate
 php artisan serve
 ```
-
 ## Special Thanks ✨
 
 - **[Ridh](https://facebook.com/Roung-Ridh)** for making this pieces of sh*t repository.
