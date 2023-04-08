@@ -1,4 +1,6 @@
-<h1 align="center">Unusual Project</h1>
+<p align="center">
+    <img src="https://media.tenor.com/bL3N_E4XsLsAAAAd/funny-dog.gif" alt="Unusual Project">
+</p>
 <p align="center">
     <a href="https://packagist.org/packages/laravel/framework">
         <img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads">
