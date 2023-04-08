@@ -17,7 +17,7 @@ Unusual Project is Unaccessible, Slow, and Lack of user experiences.
 
 ## Unusual Project Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Unusual Project development. If you are interested in becoming a sponsor, please visit the Developer [Ridh](https://facebook.com/Roung-Ridh).
+We would like to extend our thanks to the following sponsors for funding Unusual Project development. If you are interested in becoming a sponsor, please visit the Developer **[Ridh](https://facebook.com/Roung-Ridh)**.
 
 ## Unusual Project Installation
 
