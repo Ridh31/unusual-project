@@ -1,14 +1,4 @@
-<style>
-    @import url('https://fonts.googleapis.com/css2?family=Rubik+Pixels&display=swap');
-
-    p.title {
-        font-family: 'Rubik Pixels', cursive;
-        font-size: 31px;
-    }
-</style>
-<p align="center">
-    <p class="title">Unusual Project</p>
-</p>
+<h1 align="center">Unusual Project</h1>
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
