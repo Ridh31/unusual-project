@@ -9,11 +9,11 @@
 
 ## About Unusual Project
 
-Unusual Project is an unintelligent and a loser web application with nonsense content, foolish syntax. We believe development must be a painful and lack of experience to be truly fulfilling. Unusual Project takes the happiness out of development because it contains a bunch of pieces of sh*t. The project includes:
+Unusual Project is an unintelligent and a loser web application with nonsense content, and foolish syntax. We believe development must be painful and lack of experience to be truly fulfilling. Unusual Project takes the happiness out of development because it contains a bunch of pieces of sh*t. The project includes:
 
 - **[Nothing, but trash](https://www.trashloop.com/)**
 
-Unusual Project is Unaccessible, Slow, and Lack of user experiences.
+Unusual Project is Inaccessible, Slow, and Lack of user experiences.
 
 ## Unusual Project Sponsors
 
@@ -32,4 +32,4 @@ php artisan serve
 
 ## License
 
-Unusual Project is a dump software licensed under the **[Ridh](https://codepen.io/Ridh31)**.
+Unusual Project is a dump software licensed under the lil sh*t **[Ridh](https://codepen.io/Ridh31)**.
